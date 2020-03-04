@@ -74,7 +74,7 @@ GEM
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
     pg (0.21.0)
-    puma (3.12.0)
+    puma (3.12.4)
     raabro (1.1.6)
     rack (2.0.6)
     rack-protection (2.0.5)
@@ -142,7 +142,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   pg (~> 0.18)
-  puma (~> 3.0)
+  puma (~> 3.12)
   rails (~> 5.0)
   server_metrics
   sidekiq
